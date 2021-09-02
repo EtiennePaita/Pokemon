@@ -1,0 +1,17 @@
+﻿  Dresseur.cpp
+  Game.cpp
+C:\Users\33631\Desktop\EtienneProjet\Pokemon\Game.h(4,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Grass.cpp
+  main.cpp
+C:\Users\33631\Desktop\EtienneProjet\Pokemon\Game.h(4,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Map.cpp
+C:\Users\33631\Desktop\EtienneProjet\Pokemon\Map.cpp(31,22): warning C4018: '<' : incompatibilité signed/unsigned
+  Object.cpp
+  Player.cpp
+  Render.cpp
+C:\Users\33631\Desktop\EtienneProjet\Pokemon\Render.h(4,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  TallGrass.cpp
+  Textures.cpp
+C:\Users\33631\Desktop\EtienneProjet\Pokemon\Textures.h(4,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Wall.cpp
+  Génération de code en cours...
